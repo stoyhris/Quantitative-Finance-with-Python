@@ -1,4 +1,4 @@
-**Quantitative Finance with Python**
+# Quantitative Finance with Python
 
 Programming can be used to greatly speed up and automate financial tasks. Programs in this repo explore the following concepts: 
 
